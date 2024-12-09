@@ -1,0 +1,19 @@
+{
+    "test_cases": [
+        {
+            "url": "https://opensource-demo.orangehrmlive.com/",
+            "username": "user1",
+            "password": "pass1"
+        },
+        {
+            "url": "https://opensource-demo.orangehrmlive.com/",
+            "username": "user2",
+            "password": "pass2"
+        },
+        {
+            "url": "https://opensource-demo.orangehrmlive.com/",
+            "username": "user3",
+            "password": "pass3"
+        }
+    ]
+}
