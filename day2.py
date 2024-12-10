@@ -14,6 +14,8 @@ s = Service("C:\\Users\\anuj.dhanore_infobea\\Downloads\\chromedriver-win64\\chr
 driver = webdriver.Chrome(options=options, service=s)
 driver.get("https://demowebshop.tricentis.com/")
 driver.maximize_window()
+
+#moving to element
 time.sleep(4)
 print(driver.title)
 print(driver.current_url)
